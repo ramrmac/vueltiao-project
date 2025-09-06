@@ -8,9 +8,9 @@ Deberá incluir también alguna fase donde se pueda interactuar con el proyecto 
 Y tratar de hacer alguna aplicación que corresponda y encadene el numero obtenido en la secuencia a alguna melodía
 
 #PLAYLIST#
--
--
--
--
--
--
+- We don't talk about Bruno - Encanto
+- El ausente
+- Rebelión
+- Bicicleta - Carlos Vives
+- Colombia, mi encanto - Carlos Vives
+- Sin medir distancias
