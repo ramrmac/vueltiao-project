@@ -14,3 +14,5 @@ Y tratar de hacer alguna aplicación que corresponda y encadene el numero obteni
 - Bicicleta - Carlos Vives
 - Colombia, mi encanto - Carlos Vives
 - Sin medir distancias
+- Se va la vida
+- Las Caleñas Son Como Las Mujeres
