@@ -1,0 +1,9 @@
+	STEREN
+
+Arduino + cable $228
+Bocina $49 
+Buzzers $59 x 2
+Fuente 5V 10A $199
+Servos --PENDIENTE--
+
+	TOTAL: $594 (sin contar servomotores)

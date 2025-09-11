@@ -1,0 +1,9 @@
+	AG
+
+Arduino $138.79 +IVA
+Bocina $47.41 + IVA
+Buzzer 2 x $46.55 c/u +IVA
+Fuente 12V $236.21 +IVA
+Servo --PENDIENTE--
+
+	TOTAL: 515.51 +IVA (sin contar servomotores)
