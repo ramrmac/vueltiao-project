@@ -1,9 +1,10 @@
 	STEREN
 
 Arduino + cable $228
-Bocina $49 
-Buzzers $59 x 2
+Bocina $49 x2
+Buzzers $59 x 4
 Fuente 5V 10A $199
-Servos --PENDIENTE--
-
-	TOTAL: $594 (sin contar servomotores)
+Servos $200 x 12
+Cable ethernet cat5 tipo b $200
+Router mikrotik Hap Life Rb941-2nd 5v $700
+	TOTAL: $4061
